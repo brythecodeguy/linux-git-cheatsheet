@@ -2,5 +2,11 @@
 
 ## Linux Commands
 
+### `pwd`
+Prints the current working directory.
+
+**Example**
+pwd
+
 ## Git Commands
 
