@@ -88,3 +88,9 @@ Switches between branches
 **Example**
 git checkout main
 
+### `git push`
+Uploads local commits to a remote repository
+
+**Example**
+git push
+
