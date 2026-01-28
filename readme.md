@@ -38,5 +38,11 @@ Deletes a file
 **Example**
 rm file.txt
 
+###`cp`
+Copies a file from one location to another
+
+**Example**
+cp file.txt backup.txt
+
 ## Git Commands
 
