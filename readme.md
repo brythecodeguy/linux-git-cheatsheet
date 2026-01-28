@@ -76,3 +76,9 @@ Records staged changes to the repository
 **Example**
 git commit -m "Message describing changes"
 
+### `git branch`
+Lists, creates, or deletes branches
+
+**Example**
+git branch
+
