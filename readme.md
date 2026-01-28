@@ -44,5 +44,11 @@ Copies a file from one location to another
 **Example**
 cp file.txt backup.txt
 
+### `mv`
+Moves or renames a file
+
+**Example**
+mv oldname.txt newname.txt
+
 ## Git Commands
 
