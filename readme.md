@@ -58,3 +58,9 @@ cat notes.txt
 
 ## Git Commands
 
+### `git status`
+Shows the current state of the working directory and staging area
+
+**Example**
+git status
+
