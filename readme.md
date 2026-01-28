@@ -5,63 +5,63 @@
 ### `pwd`
 Prints the current working directory.
 
-**Example**
+**Example:**
 
 pwd
 
 ### `ls`
 Lists files and directories in the current directory
 
-**Example**
+**Example:**
 
 ls
 
 ### `cd`
 Changes the current directory
 
-**Example**
+**Example:**
 
 cd Documents
 
 ### `mkdir`
 Creates a new directory
 
-**Example**
+**Example:**
 
 mkdir projects
 
 ### `touch`
 Creates an empty file
 
-**Example** 
+**Example:** 
 
 touch notes.txt
 
 ### `rm`
 Deletes a file
 
-**Example**
+**Example:**
 
 rm file.txt
 
 ### `cp`
 Copies a file from one location to another
 
-**Example**
+**Example:**
 
 cp file.txt backup.txt
 
 ### `mv`
 Moves or renames a file
 
-**Example**
+**Example:**
 
 mv oldname.txt newname.txt
 
 ### `cat`
 Displays the contents of a file
 
-**Example**
+**Example:**
 
 cat notes.txt
 
@@ -70,42 +70,42 @@ cat notes.txt
 ### `git status`
 Shows the current state of the working directory and staging area
 
-**Example**
+**Example:**
 
 git status
 
 ### `git add`
 Adds files to the staging area before committing
 
-**Example**
+**Example:**
 
 git add readme.md
 
 ### `git commit`
 Records staged changes to the repository
 
-**Example**
+**Example:**
 
 git commit -m "Message describing changes"
 
 ### `git branch`
 Lists, creates, or deletes branches
 
-**Example**
+**Example:**
 
 git branch
 
 ### `git checkout`
 Switches between branches
 
-**Example**
+**Example:**
 
 git checkout main
 
 ### `git push`
 Uploads local commits to a remote repository
 
-**Example**
+**Example:**
 
 git push
 
