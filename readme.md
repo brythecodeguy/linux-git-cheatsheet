@@ -82,3 +82,9 @@ Lists, creates, or deletes branches
 **Example**
 git branch
 
+### `git checkout`
+Switches between branches
+
+**Example**
+git checkout main
+
