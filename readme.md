@@ -26,5 +26,11 @@ Creates a new directory
 **Example**
 mkdir projects
 
+### `touch`
+Creates an empty file
+
+**Example** 
+touch notes.txt
+
 ## Git Commands
 
