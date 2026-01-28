@@ -14,5 +14,11 @@ Lists files and directories in the current directory
 **Example**
 ls
 
+### `cd`
+Changes the current directory
+
+**Example**
+cd Documents
+
 ## Git Commands
 
