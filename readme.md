@@ -64,3 +64,9 @@ Shows the current state of the working directory and staging area
 **Example**
 git status
 
+### `git add`
+Adds files to the staging area before committing
+
+**Example**
+git add readme.md
+
