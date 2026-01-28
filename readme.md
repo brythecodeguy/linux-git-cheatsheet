@@ -50,5 +50,11 @@ Moves or renames a file
 **Example**
 mv oldname.txt newname.txt
 
+### `cat`
+Displays the contents of a file
+
+**Example**
+cat notes.txt
+
 ## Git Commands
 
