@@ -32,5 +32,11 @@ Creates an empty file
 **Example** 
 touch notes.txt
 
+### `rm`
+Deletes a file
+
+**Example**
+rm file.txt
+
 ## Git Commands
 
