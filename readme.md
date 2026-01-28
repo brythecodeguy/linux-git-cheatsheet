@@ -20,5 +20,11 @@ Changes the current directory
 **Example**
 cd Documents
 
+### `mkdir`
+Creates a new directory
+
+**Example**
+mkdir projects
+
 ## Git Commands
 
