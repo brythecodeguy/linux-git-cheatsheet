@@ -70,3 +70,9 @@ Adds files to the staging area before committing
 **Example**
 git add readme.md
 
+### `git commit`
+Records staged changes to the repository
+
+**Example**
+git commit -m "Message describing changes"
+
